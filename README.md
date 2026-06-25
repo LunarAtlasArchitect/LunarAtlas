@@ -2,7 +2,7 @@
 
 ## СОДЕРЖАНИЕ
 
-Лунный атлас — хранилище [Obsidian](https://obsidian.md/) для материалов в жанре [Worldbuilding](https://en.wikipedia.org/wiki/Worldbuilding).
+Лунный атлас — хранилище для [Obsidian](https://obsidian.md/), предназначенное для хранения материалов в жанре [Worldbuilding](https://en.wikipedia.org/wiki/Worldbuilding).
 
 ## ИСПОЛЬЗОВАНИЕ
 
