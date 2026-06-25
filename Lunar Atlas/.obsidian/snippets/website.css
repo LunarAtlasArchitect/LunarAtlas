@@ -1,0 +1,7 @@
+.header, .feature-title {
+    display: none;
+}
+
+.tree-item-self is-clickable {
+	text-transform: uppercase;
+}
